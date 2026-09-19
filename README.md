@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dr. VipinKumar Rajendra Pawar
 
-### PhD | Automotive Embedded Systems | Embedded Linux | EV Technology | Firmware | Research & Development
+### PhD (Remote Sensing)| Automotive Embedded Systems | Embedded Linux | EV Technology | Firmware | Research & Development
 
 Welcome to my GitHub profile! I'm a passionate **Automotive Embedded Systems professional, researcher, and technology enthusiast** working at the intersection of **embedded software, vehicle electronics, electric mobility, and intelligent systems**.
 

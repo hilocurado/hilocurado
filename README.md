@@ -10,7 +10,7 @@ With a PhD and hands-on experience across automotive embedded technologies, my w
 
 ## 🚀 About Me
 
-* 🎓 **PhD** in Engineering / Technology
+* 🎓 **PhD** in Remote Sensing Technology
 * 🏆 **Research Excellent Award – 2021**
 * 🚗 Automotive Embedded Systems & Vehicle Electronics
 * ⚡ Electric Vehicle & EV Charging Technologies
